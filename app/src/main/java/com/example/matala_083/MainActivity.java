@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     TextView tv1,tv2;
     Spinner spin1,spin2;
     ListView lv;
+    int x;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
