@@ -67,7 +67,7 @@
 
             <Space
                 android:layout_width="match_parent"
-                android:layout_height="337dp" />
+                android:layout_height="88dp" />
 
             <TextView
                 android:id="@+id/tv1"
